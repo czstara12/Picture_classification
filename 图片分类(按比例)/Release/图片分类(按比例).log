@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\czsta\source\repos\图片分类(按比例)\图片分类(按比例)\main.cpp(143): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\czsta\source\repos\图片分类(按比例)\图片分类(按比例)\main.cpp(144): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\czsta\source\repos\图片分类(按比例)\图片分类(按比例)\main.cpp(149): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\czsta\source\repos\图片分类(按比例)\图片分类(按比例)\main.cpp(172): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\direct.h(111): note: 参见“mkdir”的声明
+  正在生成代码
+  All 205 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  图片分类(按比例).vcxproj -> C:\Users\czsta\source\repos\图片分类(按比例)\Release\图片分类(按比例).exe
