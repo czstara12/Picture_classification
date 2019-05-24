@@ -1,7 +1,8 @@
 ﻿  main.cpp
   正在生成代码
-  2 of 175 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+D:\Documents\GitHub\图片分类(按比例)\图片分类(按比例)\CImage.h(58): warning C4715: “czstara12::CImage::get_proportion_d”: 不是所有的控件路径都返回值
+  199 of 334 functions (59.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
-  图片分类(按比例).vcxproj -> C:\Users\czstara12\source\repos\图片分类(按比例)\Release\图片分类(按比例).exe
+  图片分类(按比例).vcxproj -> D:\Documents\GitHub\图片分类(按比例)\Release\图片分类(按比例).exe

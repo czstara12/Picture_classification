@@ -1,2 +1,4 @@
 ﻿  main.cpp
-  图片分类(按比例).vcxproj -> C:\Users\czstara12\source\repos\图片分类(按比例)\Debug\图片分类(按比例).exe
+D:\Documents\GitHub\图片分类(按比例)\图片分类(按比例)\main.cpp(51): warning C4715: “fenlei”: 不是所有的控件路径都返回值
+D:\Documents\GitHub\图片分类(按比例)\图片分类(按比例)\CImage.h(58): warning C4715: “czstara12::CImage::get_proportion_d”: 不是所有的控件路径都返回值
+  图片分类(按比例).vcxproj -> D:\Documents\GitHub\图片分类(按比例)\Debug\图片分类(按比例).exe
